@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphaelfelipini@hotmail.com
+	name = Raphael Felipini
